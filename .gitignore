@@ -6,3 +6,4 @@ AuthServer.cjs
 login
 eslint.config.js
 .env
+vite.config.js
