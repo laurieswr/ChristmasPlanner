@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import MoviesData from './listFilmNoël.json'; // Assurez-vous que ce chemin est correct
-import './listFilmNoel.css';
+import './styleMovie.css';
 
 const FilmsNoel = () => {
   const [movies, setMovies] = useState([]); // Initialisation avec un tableau vide
