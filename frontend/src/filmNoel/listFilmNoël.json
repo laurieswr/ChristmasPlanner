@@ -1,0 +1,846 @@
+{
+    "films_de_noel": [
+    {
+        "id": 1,
+        "titre": "Christmas in Connecticut",
+        "annee": 1945,
+        "description": "Une journaliste doit faire semblant d'être une parfaite femme au foyer pour impressionner son patron pendant les vacances de Noël.",
+        "duree": 102,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Barbara Stanwyck",
+            "acteur2": "Dennis Morgan",
+            "acteur3": "Sydney Greenstreet",
+            "acteur4": "Reginald Gardiner",
+            "acteur5": "S.Z. Sakall",
+            "acteur6": "Robert Shayne"
+        } 
+    },
+    {
+        "id": 2,
+        "titre": "It’s a Wonderful Life",
+        "annee": 1946,
+        "description": "Un homme désespéré reçoit la visite d'un ange gardien qui lui montre ce que serait la vie sans lui.",
+        "duree": 130,
+        "genre": "Drame / Fantastique",
+        "acteurs": {
+            "acteur1": "James Stewart",
+            "acteur2": "Donna Reed",
+            "acteur3": "Lionel Barrymore",
+            "acteur4": "Thomas Mitchell",
+            "acteur5": "Henry Travers"
+        }
+    },
+    {
+        "id": 3,
+        "titre": "Mickey's Christmas Carol",
+        "annee": 1983,
+        "description": "Une adaptation Disney du célèbre conte de Noël avec Scrooge McDuck dans le rôle principal.",
+        "duree": 26,
+        "genre": "Animation / Fantastique",
+        "acteurs": {
+            "acteur1": "Alan Young",
+            "acteur2": "Tony Anselmo",
+            "acteur3": "Wayne Allwine",
+            "acteur4": "Hal Smith",
+            "acteur5": "Paul Frees"
+        }
+    },
+    {
+        "id": 4,
+        "titre": "Scrooged",
+        "annee": 1988,
+        "description": "Un directeur de télévision égoïste est hanté par des fantômes la veille de Noël.",
+        "duree": 101,
+        "genre": "Comédie / Fantastique",
+        "acteurs": {
+            "acteur1": "Bill Murray",
+            "acteur2": "Karen Allen",
+            "acteur3": "John Forsythe",
+            "acteur4": "Bobcat Goldthwait",
+            "acteur5": "Alfre Woodard"
+        }
+    },
+    {
+        "id": 5,
+        "titre": "National Lampoon's Christmas Vacation",
+        "annee": 1989,
+        "description": "Les mésaventures hilarantes de la famille Griswold pendant les vacances de Noël.",
+        "duree": 97,
+        "genre": "Comédie",
+        "acteurs": {
+            "acteur1": "Chevy Chase",
+            "acteur2": "Beverly D'Angelo",
+            "acteur3": "Randy Quaid",
+            "acteur4": "Juliette Lewis",
+            "acteur5": "Johnny Galecki"
+        }
+    },
+    {
+        "id": 6,
+        "titre": "Home Alone",
+        "annee": 1990,
+        "description": "Un garçon de huit ans doit défendre sa maison contre deux cambrioleurs après avoir été accidentellement laissé seul à la maison.",
+        "duree": 103,
+        "genre": "Comédie / Familial",
+        "acteurs": {
+            "acteur1": "Macaulay Culkin",
+            "acteur2": "Joe Pesci",
+            "acteur3": "Daniel Stern",
+            "acteur4": "Catherine O'Hara",
+            "acteur5": "John Heard"
+        }
+    },
+    {
+        "id": 7,
+        "titre": "Home Alone 2: Lost in New York",
+        "annee": 1992,
+        "description": "Kevin McCallister se retrouve seul à New York et doit de nouveau affronter les mêmes cambrioleurs.",
+        "duree": 120,
+        "genre": "Comédie / Aventure",
+        "acteurs": {
+            "acteur1": "Macaulay Culkin",
+            "acteur2": "Joe Pesci",
+            "acteur3": "Daniel Stern",
+            "acteur4": "Tim Curry",
+            "acteur5": "Katherine O'Hara"
+        }
+    },
+    {
+        "id": 8,
+        "titre": "The Muppet Christmas Carol",
+        "annee": 1992,
+        "description": "Les Muppets interprètent le conte classique de Dickens, avec Kermit dans le rôle de Bob Cratchit.",
+        "duree": 85,
+        "genre": "Comédie musicale / Fantastique",
+        "acteurs": {
+            "acteur1": "Michael Caine",
+            "acteur2": "Kermit the Frog",
+            "acteur3": "Miss Piggy",
+            "acteur4": "Steve Whitmire",
+            "acteur5": "Frank Oz"
+        }
+    },
+    {
+        "id": 9,
+        "titre": "The Santa Clause",
+        "annee": 1994,
+        "description": "Un homme ordinaire devient le nouveau Père Noël après un accident imprévu.",
+        "duree": 97,
+        "genre": "Comédie / Fantastique",
+        "acteurs": {
+            "acteur1": "Tim Allen",
+            "acteur2": "Judge Reinhold",
+            "acteur3": "Wendy Crewson",
+            "acteur4": "David Krumholtz",
+            "acteur5": "Eric Lloyd"
+        }
+    },
+    {
+        "id": 10,
+        "titre": "Miracle on 34th Street",
+        "annee": 1994,
+        "description": "Un homme qui prétend être le vrai Père Noël est jugé pour déterminer s'il dit la vérité.",
+        "duree": 114,
+        "genre": "Drame / Familial",
+        "acteurs": {
+            "acteur1": "Richard Attenborough",
+            "acteur2": "Elizabeth Perkins",
+            "acteur3": "Dylan McDermott",
+            "acteur4": "Mara Wilson",
+            "acteur5": "J.T. Walsh"
+        }
+    },
+    {
+        "id": 11,
+        "titre": "Home for the Holidays",
+        "annee": 1995,
+        "description": "Une femme célibataire retourne chez elle pour Thanksgiving et doit faire face à une famille excentrique.",
+        "duree": 103,
+        "genre": "Comédie dramatique",
+        "acteurs": {
+            "acteur1": "Holly Hunter",
+            "acteur2": "Robert Downey Jr.",
+            "acteur3": "Anne Bancroft",
+            "acteur4": "Charles Durning",
+            "acteur5": "Dylan McDermott"
+        }
+    },
+    {
+        "id": 12,
+        "titre": "Jingle All the Way",
+        "annee": 1996,
+        "description": "Un père surchargé tente désespérément de trouver un jouet populaire pour son fils à la veille de Noël.",
+        "duree": 89,
+        "genre": "Comédie / Familial",
+        "acteurs": {
+            "acteur1": "Arnold Schwarzenegger",
+            "acteur2": "Sinbad",
+            "acteur3": "Phil Hartman",
+            "acteur4": "Rita Wilson",
+            "acteur5": "Jake Lloyd"
+        }
+    },
+    {
+        "id": 13,
+        "titre": "Home Alone 3",
+        "annee": 1997,
+        "description": "Un nouveau garçon doit défendre sa maison contre des espions internationaux après avoir trouvé une puce secrète dans son jouet.",
+        "duree": 102,
+        "genre": "Comédie / Aventure",
+        "acteurs": {
+            "acteur1": "Alex D. Linz",
+            "acteur2": "Scarlett Johansson",
+            "acteur3": "Olek Krupa",
+            "acteur4": "Rya Kihlstedt",
+            "acteur5": "Haviland Morris"
+        }
+    },
+    {
+        "id": 14,
+        "titre": "Jack Frost",
+        "annee": 1998,
+        "description": "Un père décédé revient sous forme de bonhomme de neige pour passer du temps avec son fils.",
+        "duree": 101,
+        "genre": "Drame / Fantastique",
+        "acteurs": {
+            "acteur1": "Michael Keaton",
+            "acteur2": "Kelly Preston",
+            "acteur3": "Joseph Cross",
+            "acteur4": "Mark Addy",
+            "acteur5": "Andrea Martin"
+        }
+    },
+    {
+        "id": 15,
+        "titre": "The Family Man",
+        "annee": 2000,
+        "description": "Un homme d'affaires ambitieux se réveille un jour pour découvrir la vie qu'il aurait pu avoir.",
+        "duree": 125,
+        "genre": "Drame / Comédie romantique",
+        "acteurs": {
+            "acteur1": "Nicolas Cage",
+            "acteur2": "Téa Leoni",
+            "acteur3": "Don Cheadle",
+            "acteur4": "Jeremy Piven",
+            "acteur5": "Artie Lange"
+        }
+    },
+    {
+        "id": 16,
+        "titre": "Love Actually",
+        "annee": 2003,
+        "description": "Plusieurs histoires d'amour s'entrecroisent à Londres pendant la période des fêtes.",
+        "duree": 135,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Hugh Grant",
+            "acteur2": "Liam Neeson",
+            "acteur3": "Colin Firth",
+            "acteur4": "Emma Thompson",
+            "acteur5": "Alan Rickman",
+            "acteur6": "Keira Knightley"
+        }
+    },
+    {
+        "id": 17,
+        "titre": "Elf",
+        "annee": 2003,
+        "description": "Un humain élevé comme un lutin au Pôle Nord part à la recherche de son père biologique à New York.",
+        "duree": 97,
+        "genre": "Comédie / Fantastique",
+        "acteurs": {
+            "acteur1": "Will Ferrell",
+            "acteur2": "James Caan",
+            "acteur3": "Zooey Deschanel",
+            "acteur4": "Bob Newhart",
+            "acteur5": "Mary Steenburgen"
+        }
+    },
+    {
+        "id": 18,
+        "titre": "Bad Santa",
+        "annee": 2003,
+        "description": "Un escroc déguisé en Père Noël planifie un vol pendant les fêtes de fin d'année, mais les choses ne se passent pas comme prévu.",
+        "duree": 92,
+        "genre": "Comédie noire",
+        "acteurs": {
+            "acteur1": "Billy Bob Thornton",
+            "acteur2": "Lauren Graham",
+            "acteur3": "Tony Cox",
+            "acteur4": "Brett Kelly",
+            "acteur5": "John Ritter"
+        }
+    },
+    {
+        "id": 19,
+        "titre": "The Polar Express",
+        "annee": 2004,
+        "description": "Un jeune garçon monte à bord d'un train magique pour le Pôle Nord la veille de Noël.",
+        "duree": 100,
+        "genre": "Animation / Fantastique",
+        "acteurs": {
+            "acteur1": "Tom Hanks",
+            "acteur2": "Leslie Zemeckis",
+            "acteur3": "Eddie Deezen",
+            "acteur4": "Nona Gaye",
+            "acteur5": "Peter Scolari"
+        }
+    },
+    {
+        "id": 20,
+        "titre": "Christmas with the Kranks",
+        "annee": 2004,
+        "description": "Un couple décide de ne pas célébrer Noël, mais leurs voisins ne l'entendent pas de cette oreille.",
+        "duree": 99,
+        "genre": "Comédie",
+        "acteurs": {
+            "acteur1": "Tim Allen",
+            "acteur2": "Jamie Lee Curtis",
+            "acteur3": "Dan Aykroyd",
+            "acteur4": "M. Emmet Walsh",
+            "acteur5": "Cheech Marin"
+        }
+    },
+    {
+        "id": 21,
+        "titre": "A Christmas Carol: The Musical",
+        "annee": 2004,
+        "description": "Une adaptation musicale du classique de Dickens, où Scrooge doit faire face à son passé, présent et futur.",
+        "duree": 97,
+        "genre": "Comédie musicale / Fantastique",
+        "acteurs": {
+            "acteur1": "Kelsey Grammer",
+            "acteur2": "Jason Alexander",
+            "acteur3": "Geraldine Chaplin",
+            "acteur4": "Ruthie Henshall",
+            "acteur5": "James Dreyfus"
+        }
+    },
+    {
+        "id": 22,
+        "titre": "The Family Stone",
+        "annee": 2005,
+        "description": "Une femme rencontre la famille de son petit ami pendant Noël, mais tout ne se passe pas comme prévu.",
+        "duree": 103,
+        "genre": "Comédie dramatique / Romantique",
+        "acteurs": {
+            "acteur1": "Diane Keaton",
+            "acteur2": "Sarah Jessica Parker",
+            "acteur3": "Claire Danes",
+            "acteur4": "Rachel McAdams",
+            "acteur5": "Luke Wilson"
+        }
+    },
+    {
+        "id": 23,
+        "titre": "Four Christmases",
+        "annee": 2008,
+        "description": "Un couple doit rendre visite à leurs quatre familles pendant la période de Noël.",
+        "duree": 88,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Vince Vaughn",
+            "acteur2": "Reese Witherspoon",
+            "acteur3": "Robert Duvall",
+            "acteur4": "Sissy Spacek",
+            "acteur5": "Jon Voight"
+        }
+    },
+    {
+        "id": 24,
+        "titre": "A Christmas Carol",
+        "annee": 2009,
+        "description": "Une version animée du conte classique de Dickens avec des graphismes modernes.",
+        "duree": 96,
+        "genre": "Animation / Fantastique",
+        "acteurs": {
+            "acteur1": "Jim Carrey",
+            "acteur2": "Gary Oldman",
+            "acteur3": "Colin Firth",
+            "acteur4": "Robin Wright",
+            "acteur5": "Bob Hoskins"
+        }
+    },
+    {
+        "id": 25,
+        "titre": "A Christmas Carol",
+        "annee": 2009,
+        "description": "Une autre adaptation du célèbre conte de Dickens avec des effets visuels avancés.",
+        "duree": 96,
+        "genre": "Animation / Fantastique",
+        "acteurs": {
+            "acteur1": "Jim Carrey",
+            "acteur2": "Gary Oldman",
+            "acteur3": "Colin Firth",
+            "acteur4": "Robin Wright",
+            "acteur5": "Bob Hoskins"
+        }
+    },
+    {
+        "id": 26,
+        "titre": "Arthur Christmas",
+        "annee": 2011,
+        "description": "Le fils du Père Noël part en mission pour livrer un cadeau oublié avant le matin de Noël.",
+        "duree": 97,
+        "genre": "Animation / Aventure",
+        "acteurs": {
+            "acteur1": "James McAvoy",
+            "acteur2": "Hugh Laurie",
+            "acteur3": "Bill Nighy",
+            "acteur4": "Imelda Staunton",
+            "acteur5": "Ashley Jensen"
+        }
+    },
+    {
+        "id": 27,
+        "titre": "A Christmas Wish",
+        "annee": 2011,
+        "description": "Une mère célibataire doit surmonter des défis pour offrir un Noël mémorable à ses enfants.",
+        "duree": 92,
+        "genre": "Drame / Familial",
+        "acteurs": {
+            "acteur1": "Tori Spelling",
+            "acteur2": "David Lipper",
+            "acteur3": "Dean McDermott",
+            "acteur4": "Shirley Jones",
+            "acteur5": "Cheryl Ladd"
+        }
+    },
+    {
+        "id": 28,
+        "titre": "A Christmas Wish",
+        "annee": 2011,
+        "description": "Une autre version de l'histoire d'une famille en difficulté essayant de trouver la magie de Noël.",
+        "duree": 90,
+        "genre": "Drame / Familial",
+        "acteurs": {
+            "acteur1": "Tori Spelling",
+            "acteur2": "David Lipper",
+            "acteur3": "Dean McDermott",
+            "acteur4": "Shirley Jones",
+            "acteur5": "Cheryl Ladd"
+        }
+    },
+    {
+        "id": 29,
+        "titre": "A Christmas Wish",
+        "annee": 2011,
+        "description": "Une troisième interprétation de la recherche du miracle de Noël par une famille.",
+        "duree": 91,
+        "genre": "Drame / Familial",
+        "acteurs": {
+            "acteur1": "Tori Spelling",
+            "acteur2": "David Lipper",
+            "acteur3": "Dean McDermott",
+            "acteur4": "Shirley Jones",
+            "acteur5": "Cheryl Ladd"
+        }
+    },
+    {
+        "id": 30,
+        "titre": "Holiday Engagement",
+        "annee": 2011,
+        "description": "Une femme embauche un acteur pour faire semblant d'être son fiancé pendant Noël.",
+        "duree": 90,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Haylie Duff",
+            "acteur2": "Chris Carmack",
+            "acteur3": "Shelley Long",
+            "acteur4": "Patrick Cassidy",
+            "acteur5": "Tommy Hinkley"
+        }
+    },
+    {
+        "id": 31,
+        "titre": "A Christmas Melody",
+        "annee": 2015,
+        "description": "Une enseignante de musique aide une jeune fille à écrire une chanson de Noël mémorable.",
+        "duree": 83,
+        "genre": "Comédie romantique / Musical",
+        "acteurs": {
+            "acteur1": "Lindsay Lohan",
+            "acteur2": "Chad Michael Murray",
+            "acteur3": "Karen David",
+            "acteur4": "George Newbern",
+            "acteur5": "Jenna Boyd"
+        }
+    },
+    {
+        "id": 32,
+        "titre": "A Christmas Star",
+        "annee": 2015,
+        "description": "Une jeune fille qui croit avoir le pouvoir de réaliser des miracles utilise son don pour sauver son village.",
+        "duree": 82,
+        "genre": "Comédie / Fantastique",
+        "acteurs": {
+            "acteur1": "Kerry Hines",
+            "acteur2": "Ita O'Brien",
+            "acteur3": "Suranne Jones",
+            "acteur4": "Sarah Lancashire",
+            "acteur5": "Deirdre O'Kane"
+        }
+    },
+    {
+        "id": 33,
+        "titre": "Christmas in the Smokies",
+        "annee": 2015,
+        "description": "Une femme se bat pour sauver la ferme familiale pendant les vacances de Noël.",
+        "duree": 88,
+        "genre": "Drame / Romantique",
+        "acteurs": {
+            "acteur1": "Sarah Lancaster",
+            "acteur2": "Barry Bostwick",
+            "acteur3": "David Alpay",
+            "acteur4": "Catherine Dent",
+            "acteur5": "Christopher Atkins"
+        }
+    },
+    {
+        "id": 34,
+        "titre": "A Christmas Reunion",
+        "annee": 2015,
+        "description": "Deux anciens amoureux se retrouvent et doivent travailler ensemble pour organiser un événement de Noël.",
+        "duree": 87,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Lacey Chabert",
+            "acteur2": "Stephen Huszar",
+            "acteur3": "Paul Popowich",
+            "acteur4": "Terry Layman",
+            "acteur5": "Sarah Edmondson"
+        }
+    },
+    {
+        "id": 35,
+        "titre": "The Night Before",
+        "annee": 2015,
+        "description": "Trois amis se retrouvent pour une dernière soirée de fête avant Noël.",
+        "duree": 101,
+        "genre": "Comédie / Aventure",
+        "acteurs": {
+            "acteur1": "Joseph Gordon-Levitt",
+            "acteur2": "Seth Rogen",
+            "acteur3": "Anthony Mackie",
+            "acteur4": "Lizzy Caplan",
+            "acteur5": "Jillian Bell"
+        }
+    },
+    {
+        "id": 36,
+        "titre": "A Christmas to Remember",
+        "annee": 2016,
+        "description": "Une auteure à succès trouve l'amour et redécouvre la magie de Noël après un accident de voiture.",
+        "duree": 84,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Dylan Neal",
+            "acteur2": "Teri Hatcher",
+            "acteur3": "Patrick Sabongui",
+            "acteur4": "Joseph Lawrence",
+            "acteur5": "Rebecca Toolan"
+        }
+    },
+    {
+        "id": 37,
+        "titre": "Snowden",
+        "annee": 2016,
+        "description": "Un film sur les révélations d'Edward Snowden concernant la surveillance mondiale.",
+        "duree": 134,
+        "genre": "Drame / Thriller",
+        "acteurs": {
+            "acteur1": "Joseph Gordon-Levitt",
+            "acteur2": "Shailene Woodley",
+            "acteur3": "Melissa Leo",
+            "acteur4": "Zachary Quinto",
+            "acteur5": "Nicolas Cage"
+        }
+    },
+    {
+        "id": 38,
+        "titre": "A Christmas Prince",
+        "annee": 2017,
+        "description": "Une jeune journaliste découvre l'amour et des secrets royaux lors d'une mission de Noël.",
+        "duree": 92,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Rose McIver",
+            "acteur2": "Ben Lamb",
+            "acteur3": "Alice Krige",
+            "acteur4": "Sarah Douglas",
+            "acteur5": "Honor Kneafsey"
+        }
+    },
+    {
+        "id": 39,
+        "titre": "Snowed-Inn Christmas",
+        "annee": 2017,
+        "description": "Deux journalistes rivaux se retrouvent coincés dans un hôtel de montagne pendant Noël.",
+        "duree": 86,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Bethany Joy Lenz",
+            "acteur2": "Andrew W. Walker",
+            "acteur3": "Alan Thicke",
+            "acteur4": "Michael Woods",
+            "acteur5": "Diana Kaarina"
+        }
+    },
+    {
+        "id": 40,
+        "titre": "The Princess Switch",
+        "annee": 2018,
+        "description": "Deux femmes qui se ressemblent échangent leurs vies à Noël, avec des conséquences inattendues.",
+        "duree": 101,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Vanessa Hudgens",
+            "acteur2": "Sam Palladio",
+            "acteur3": "Nick Sagar",
+            "acteur4": "Swin Tembo",
+            "acteur5": "Ella Kenion"
+        }
+    },
+    {
+        "id": 41,
+        "titre": "A Gingerbread Romance",
+        "annee": 2018,
+        "description": "Une architecte participe à un concours de maison en pain d'épices et découvre l'amour en chemin.",
+        "duree": 90,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Alyssa Milano",
+            "acteur2": "Dustin Milligan",
+            "acteur3": "Margaret Colin",
+            "acteur4": "Chad Connell",
+            "acteur5": "Glen Gould"
+        }
+    },
+    {
+        "id": 42,
+        "titre": "A Christmas in Tennessee",
+        "annee": 2018,
+        "description": "Une boulangère essaie de sauver son village menacé par des promoteurs immobiliers pendant Noël.",
+        "duree": 87,
+        "genre": "Comédie romantique / Drame",
+        "acteurs": {
+            "acteur1": "Rachel Boston",
+            "acteur2": "Andrew W. Walker",
+            "acteur3": "Jeremy Guilbaut",
+            "acteur4": "Christina Jastrzembska",
+            "acteur5": "Kirsten Robek"
+        }
+    },
+    {
+        "id": 43,
+        "titre": "A Christmas for Mary",
+        "annee": 2018,
+        "description": "Une journaliste découvre l'histoire d'un artiste local pendant les vacances de Noël.",
+        "duree": 90,
+        "genre": "Romantique / Drame",
+        "acteurs": {
+            "acteur1": "Jackie Zeman",
+            "acteur2": "Laura Bell Bundy",
+            "acteur3": "Sarah Minnich",
+            "acteur4": "Kayla Ewell",
+            "acteur5": "Diana Yanez"
+        }
+    },
+    {
+        "id": 44,
+        "titre": "The Christmas Chronicles",
+        "annee": 2018,
+        "description": "Deux enfants aident le Père Noël à sauver Noël après un accident avec son traîneau.",
+        "duree": 104,
+        "genre": "Aventure / Comédie",
+        "acteurs": {
+            "acteur1": "Kurt Russell",
+            "acteur2": "Goldie Hawn",
+            "acteur3": "Darby Camp",
+            "acteur4": "Jahzir Bruno",
+            "acteur5": "Oliver Hudson"
+        }
+    },
+    {
+        "id": 45,
+        "titre": "Christmas Made to Order",
+        "annee": 2018,
+        "description": "Un architecte embauche une organisatrice d'événements pour créer un Noël parfait pour sa famille.",
+        "duree": 80,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Alexa PenaVega",
+            "acteur2": "Jonathan Bennett",
+            "acteur3": "Holland Roden",
+            "acteur4": "Barbara Niven",
+            "acteur5": "John Brotherton"
+        }
+    },
+    {
+        "id": 46,
+        "titre": "The Nutcracker and the Four Realms",
+        "annee": 2018,
+        "description": "Une jeune fille découvre un monde magique caché derrière un cadeau de Noël spécial.",
+        "duree": 99,
+        "genre": "Fantastique / Aventure",
+        "acteurs": {
+            "acteur1": "Mackenzie Foy",
+            "acteur2": "Keira Knightley",
+            "acteur3": "Helen Mirren",
+            "acteur4": "Eugenio Derbez",
+            "acteur5": "Morgan Freeman"
+        }
+    },
+    {
+        "id": 47,
+        "titre": "A Christmas Prince: The Royal Wedding",
+        "annee": 2018,
+        "description": "La journaliste Amber se prépare pour son mariage royal dans ce conte de Noël romantique.",
+        "duree": 92,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Rose McIver",
+            "acteur2": "Ben Lamb",
+            "acteur3": "Alice Krige",
+            "acteur4": "Sarah Douglas",
+            "acteur5": "Honor Kneafsey"
+        }
+    },
+    {
+        "id": 48,
+        "titre": "A Christmas Prince: The Royal Wedding",
+        "annee": 2018,
+        "description": "Amber et le Prince Richard préparent leur mariage royal, mais les complications surgissent.",
+        "duree": 92,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Rose McIver",
+            "acteur2": "Ben Lamb",
+            "acteur3": "Alice Krige",
+            "acteur4": "Sarah Douglas",
+            "acteur5": "Honor Kneafsey"
+        }
+    },
+    {
+        "id": 49,
+        "titre": "Christmas Made to Order",
+        "annee": 2018,
+        "description": "Un professionnel débordé engage une organisatrice pour créer un Noël inoubliable.",
+        "duree": 80,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Alexa PenaVega",
+            "acteur2": "Jonathan Bennett",
+            "acteur3": "Holland Roden",
+            "acteur4": "Barbara Niven",
+            "acteur5": "John Brotherton"
+        }
+    },
+    {
+        "id": 50,
+        "titre": "The Christmas Chronicles",
+        "annee": 2018,
+        "description": "Deux enfants font équipe avec le Père Noël pour sauver Noël après un accident imprévu.",
+        "duree": 104,
+        "genre": "Aventure / Comédie",
+        "acteurs": {
+            "acteur1": "Kurt Russell",
+            "acteur2": "Goldie Hawn",
+            "acteur3": "Darby Camp",
+            "acteur4": "Jahzir Bruno",
+            "acteur5": "Oliver Hudson"
+        }
+    },
+    {
+        "id": 51,
+        "titre": "A Gingerbread Romance",
+        "annee": 2018,
+        "description": "Une architecte découvre l'amour tout en participant à un concours de maison en pain d'épices.",
+        "duree": 90,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Alyssa Milano",
+            "acteur2": "Dustin Milligan",
+            "acteur3": "Margaret Colin",
+            "acteur4": "Chad Connell",
+            "acteur5": "Glen Gould"
+        }
+    },
+    {
+        "id": 52,
+        "titre": "A Hollywood Christmas",
+        "annee": 2022,
+        "description": "Une réalisatrice de films de Noël doit faire face à des défis inattendus pendant la réalisation de son dernier projet.",
+        "duree": 95,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Jessica Harmon",
+            "acteur2": "Christopher Russell",
+            "acteur3": "Beverley Breuer",
+            "acteur4": "Mark Ghanime",
+            "acteur5": "Nikki DeLoach"
+        }
+    },
+    {
+        "id": 53,
+        "titre": "The Ghosts of Christmas Always",
+        "annee": 2022,
+        "description": "Une variation moderne du conte classique de Dickens avec des fantômes qui interviennent pour sauver Noël.",
+        "duree": 84,
+        "genre": "Fantastique / Drame",
+        "acteurs": {
+            "acteur1": "Katherine McNamara",
+            "acteur2": "Rochenda Sandall",
+            "acteur3": "Mark Killeen",
+            "acteur4": "Emma Louise Webb",
+            "acteur5": "Nathalie Emmanuel"
+        }
+    },
+    {
+        "id": 54,
+        "titre": "Christmas on the Farm",
+        "annee": 2022,
+        "description": "Une femme quitte la ville pour redécouvrir ses racines rurales pendant les vacances de Noël.",
+        "duree": 87,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Poppy Montgomery",
+            "acteur2": "Luke Mitchell",
+            "acteur3": "John Brotherton",
+            "acteur4": "Jenna Boyd",
+            "acteur5": "Nancy Travis"
+        }
+    },
+    {
+        "id": 55,
+        "titre": "Christmas Wishes & Mistletoe Kisses",
+        "annee": 2019,
+        "description": "Une décoratrice d'intérieur aide un riche homme d'affaires à préparer sa maison pour Noël, et l'amour pourrait bien être au rendez-vous.",
+        "duree": 83,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Jill Wagner",
+            "acteur2": "Matthew Davis",
+            "acteur3": "Kimberley Sustad",
+            "acteur4": "Tori Anderson",
+            "acteur5": "Cameron Bancroft"
+        }
+    },
+    {
+        "id": 56,
+        "titre": "A Christmas Love Story",
+        "annee": 2019,
+        "description": "Une enseignante de musique prépare un concert de Noël tout en trouvant l'amour.",
+        "duree": 84,
+        "genre": "Comédie romantique",
+        "acteurs": {
+            "acteur1": "Kristin Chenoweth",
+            "acteur2": "Scott Wolf",
+            "acteur3": "Kevin McGarry",
+            "acteur4": "Lydia Campbell",
+            "acteur5": "Dianne Doan"
+        }
+    }
+]
+}

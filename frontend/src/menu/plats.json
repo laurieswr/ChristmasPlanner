@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "name": "Dinde aux marrons",
+    "description": "Dinde rôtie accompagnée de marrons et de purée de pommes de terre.",
+    "ingredients": [
+      "1 dinde de 4 kg",
+      "500g de marrons cuits",
+      "1kg de pommes de terre",
+      "50g de beurre",
+      "2 oignons",
+      "2 gousses d'ail",
+      "1 bouquet garni",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Épluchez les pommes de terre et faites-les cuire pour la purée.",
+      "Placez la dinde dans un plat à rôtir, salez, poivrez et badigeonnez de beurre.",
+      "Ajoutez les oignons émincés, l'ail et le bouquet garni autour de la dinde.",
+      "Faites cuire la dinde au four pendant 2h30, en ajoutant les marrons 30 minutes avant la fin.",
+      "Préparez la purée de pommes de terre avec du beurre et servez avec la dinde et les marrons."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chapon rôti",
+    "description": "Chapon rôti, farci et servi avec des légumes de saison.",
+    "ingredients": [
+      "1 chapon de 3 kg",
+      "200g de farce (viande hachée, herbes, échalotes)",
+      "4 carottes",
+      "4 pommes de terre",
+      "1 céleri",
+      "50g de beurre",
+      "1 verre de vin blanc",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Farcissez le chapon avec la farce préparée et fermez avec de la ficelle.",
+      "Disposez les légumes coupés autour du chapon dans un grand plat.",
+      "Arrosez de vin blanc, salez, poivrez et ajoutez des noix de beurre.",
+      "Enfournez pendant 2h, arrosez régulièrement avec le jus de cuisson.",
+      "Servez chaud avec les légumes rôtis."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Saumon en croûte",
+    "description": "Saumon en croûte de pâte feuilletée avec une touche d'herbes aromatiques.",
+    "ingredients": [
+      "1 filet de saumon de 800g",
+      "1 pâte feuilletée",
+      "1 bouquet d'aneth",
+      "1 citron",
+      "1 jaune d'œuf",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Étalez la pâte feuilletée et placez le saumon au centre.",
+      "Assaisonnez avec du sel, du poivre, du jus de citron et parsemez d'aneth.",
+      "Refermez la pâte feuilletée autour du saumon et badigeonnez de jaune d'œuf.",
+      "Enfournez pendant 25-30 minutes, jusqu'à ce que la pâte soit dorée.",
+      "Servez avec une salade verte ou des légumes vapeur."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gratin dauphinois",
+    "description": "Gratin crémeux de pommes de terre avec du fromage râpé.",
+    "ingredients": [
+      "1 kg de pommes de terre",
+      "500ml de crème fraîche",
+      "100g de gruyère râpé",
+      "2 gousses d'ail",
+      "30g de beurre",
+      "Sel, poivre, muscade"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Épluchez et coupez les pommes de terre en fines rondelles.",
+      "Frottez un plat à gratin avec l'ail puis beurrez-le.",
+      "Disposez les pommes de terre en couches, assaisonnez de sel, poivre et muscade.",
+      "Versez la crème fraîche sur les pommes de terre et parsemez de fromage râpé.",
+      "Enfournez pendant 1h à 1h15, jusqu'à ce que le gratin soit doré et crémeux."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Côtelettes d'agneau",
+    "description": "Côtelettes d'agneau grillées, accompagnées de légumes rôtis et d'une sauce au romarin.",
+    "ingredients": [
+      "8 côtelettes d'agneau",
+      "4 carottes",
+      "2 courgettes",
+      "2 cuillères à soupe d'huile d'olive",
+      "1 branche de romarin",
+      "1 gousse d'ail",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Disposez les légumes coupés sur une plaque, arrosez d'huile d'olive, salez et poivrez.",
+      "Faites griller les côtelettes d'agneau dans une poêle chaude avec l'ail et le romarin.",
+      "Enfournez les légumes pendant 20 minutes jusqu'à ce qu'ils soient tendres.",
+      "Servez les côtelettes avec les légumes rôtis et une sauce au jus de cuisson."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rôti de bœuf",
+    "description": "Rôti de bœuf cuit lentement au four, servi avec une sauce au vin rouge.",
+    "ingredients": [
+      "1 rôti de bœuf de 1,5 kg",
+      "3 échalotes",
+      "1 verre de vin rouge",
+      "1 branche de thym",
+      "1 feuille de laurier",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Placez le rôti dans un plat, salez, poivrez et ajoutez le thym et le laurier.",
+      "Enfournez pendant 1h en arrosant régulièrement avec le jus.",
+      "Dans une casserole, faites revenir les échalotes, déglacez avec le vin rouge et réduisez.",
+      "Servez le rôti tranché avec la sauce au vin rouge."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cuisse de canard confite",
+    "description": "Canard confit, accompagné de pommes de terre sarladaises et de légumes verts.",
+    "ingredients": [
+      "4 cuisses de canard confites",
+      "1 kg de pommes de terre",
+      "2 gousses d'ail",
+      "2 cuillères à soupe de graisse de canard",
+      "Persil frais",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Faites chauffer les cuisses de canard au four à 180°C pendant 25 minutes.",
+      "Épluchez et coupez les pommes de terre en rondelles, faites-les revenir dans la graisse de canard avec l'ail.",
+      "Parsemez de persil frais et assaisonnez.",
+      "Servez les cuisses de canard avec les pommes de terre sarladaises."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Curry de légumes",
+    "description": "Mélange de légumes dans une sauce curry épicée, servi avec du riz basmati.",
+    "ingredients": [
+      "1 aubergine",
+      "2 courgettes",
+      "1 poivron rouge",
+      "1 oignon",
+      "2 cuillères à soupe de pâte de curry",
+      "400ml de lait de coco",
+      "2 cuillères à soupe d'huile végétale",
+      "Coriandre fraîche",
+      "Riz basmati"
+    ],
+    "steps": [
+      "Faites revenir l'oignon émincé dans l'huile jusqu'à ce qu'il soit translucide.",
+      "Ajoutez les légumes coupés en dés et la pâte de curry, laissez cuire 5 minutes.",
+      "Versez le lait de coco, laissez mijoter 20 minutes.",
+      "Servez chaud avec du riz basmati et de la coriandre fraîche."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Lasagnes végétariennes",
+    "description": "Lasagnes avec des légumes de saison, sauce tomate, béchamel et fromage fondant.",
+    "ingredients": [
+      "12 feuilles de lasagnes",
+      "1 courgette",
+      "1 poivron jaune",
+      "1 carotte",
+      "500ml de sauce tomate",
+      "500ml de béchamel",
+      "200g de fromage râpé",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Coupez les légumes en petits dés et faites-les revenir dans une poêle.",
+      "Dans un plat, alternez couches de lasagnes, légumes, sauce tomate, béchamel et fromage.",
+      "Répétez jusqu'à épuisement des ingrédients, terminez par une couche de fromage râpé.",
+      "Enfournez pendant 40 minutes, jusqu'à ce que les lasagnes soient dorées."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tourte de Noël",
+    "description": "Tourte de viande hachée, champignons et herbes fines dans une pâte dorée.",
+    "ingredients": [
+      "500g de viande hachée",
+      "200g de champignons",
+      "1 oignon",
+      "1 pâte brisée",
+      "1 jaune d'œuf",
+      "Herbes de Provence",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Faites revenir l'oignon, les champignons et la viande hachée, assaisonnez.",
+      "Étalez la pâte brisée dans un moule, ajoutez la farce.",
+      "Couvrez avec une autre pâte et soudez les bords.",
+      "Badigeonnez de jaune d'œuf et enfournez pendant 40 minutes.",
+      "Servez chaud avec une salade verte."
+    ]
+  }
+]

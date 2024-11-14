@@ -1,0 +1,13 @@
+.movies-list {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.movie-details {
+    color: green;
+}
+
+.movie-title {
+    font-size: 25px;
+    font-weight: bold;
+}

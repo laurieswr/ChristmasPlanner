@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "first-name": "Laurie",
+        "last-name": "Serwier",
+        "email": "sewelllau99@gmail.com",
+        "password": "Christmas24"
+        },
+        {
+        "id": 2,
+        "first-name": "Test",
+        "last-name": "Test",
+        "email": "test@gmail.com",
+        "password": "test"
+        }
+    ]
+  }

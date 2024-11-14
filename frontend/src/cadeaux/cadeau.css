@@ -1,0 +1,99 @@
+/* Cadeaux.css */
+
+/* Style général */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    min-height: 100vh;
+}
+
+/* Styles pour le conteneur principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destinataire {
+    font-size: 22px;
+    color:#27ae60;
+}
+
+/* Titres */
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #c0392b; /* Rouge Noël */
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #27ae60; /* Vert Noël */
+    margin-top: 20px;
+}
+
+/* Textes d'avertissement */
+p {
+    text-align: center;
+    color: red;
+}
+
+/* Formulaire */
+form {
+    margin-bottom: 20px;
+}
+
+/* Sélecteur et champs de texte */
+select,
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+/* Boutons */
+button {
+    background-color: #c0392b; /* Rouge */
+    color: white;
+    padding: 10px ;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.clear-button {
+    margin-top: 10px; /* Adds space above the "Effacer les cadeaux" button */
+}
+
+button:hover {
+    background-color: #e74c3c; /* Rouge plus clair */
+}
+
+/* Liste des cadeaux */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Style du bouton d'effacement */
+button.clear {
+    background-color: #e74c3c; /* Rouge clair */
+    margin-top: 20px;
+}
+
+button.clear:hover {
+    background-color: #c0392b; /* Rouge original */
+}
+
+#supprimer {
+    margin-right: 10px;
+}

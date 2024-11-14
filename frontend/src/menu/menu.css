@@ -1,0 +1,41 @@
+.menu-noel {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .categories {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .categories button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .categories .active {
+    background-color: red;
+    color: white;
+    border: none;
+  }
+  
+  .accordion-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .accordion-header {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .accordion-content {
+    padding: 10px 0;
+    font-size: 16px;
+    color: #555;
+  }

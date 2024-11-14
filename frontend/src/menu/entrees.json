@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Foie gras",
+    "description": "Un délicieux foie gras de canard accompagné de toasts.",
+    "ingredients": [
+      "1 foie gras de canard cru (500g)",
+      "5g de sel",
+      "2g de poivre",
+      "1 cuillère à soupe d'Armagnac",
+      "Tranches de pain grillé"
+    ],
+    "steps": [
+      "Préchauffez le four à 100°C.",
+      "Déveinez le foie gras et assaisonnez-le avec le sel, le poivre et l'Armagnac.",
+      "Placez le foie gras dans une terrine et couvrez.",
+      "Enfournez au bain-marie pendant 45 minutes.",
+      "Laissez refroidir puis réfrigérez au moins 24 heures avant de servir.",
+      "Servez avec des tranches de pain grillé."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Saumon fumé",
+    "description": "Saumon fumé accompagné de crème fraîche et de citron.",
+    "ingredients": [
+      "200g de saumon fumé",
+      "1 citron",
+      "100g de crème fraîche",
+      "Quelques brins d'aneth",
+      "Poivre noir"
+    ],
+    "steps": [
+      "Disposez les tranches de saumon fumé sur une assiette.",
+      "Pressez le citron et arrosez le saumon avec le jus.",
+      "Ajoutez une cuillère de crème fraîche sur chaque tranche.",
+      "Parsemez d'aneth et poivrez légèrement.",
+      "Servez frais."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Huîtres",
+    "description": "Huîtres fraîches servies avec du vinaigre mignonette.",
+    "ingredients": [
+      "12 huîtres fraîches",
+      "2 cuillères à soupe de vinaigre de vin rouge",
+      "1 échalote finement hachée",
+      "1 pincée de poivre"
+    ],
+    "steps": [
+      "Ouvrez les huîtres avec précaution et disposez-les sur un lit de glace pilée.",
+      "Préparez le vinaigre mignonette en mélangeant le vinaigre, l'échalote et le poivre.",
+      "Servez les huîtres avec une petite cuillère de vinaigre mignonette sur chaque huître."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Velouté de potimarron",
+    "description": "Soupe crémeuse à base de potimarron et de crème fraîche.",
+    "ingredients": [
+      "1 potimarron",
+      "1 oignon",
+      "1 litre de bouillon de légumes",
+      "20cl de crème fraîche",
+      "Sel et poivre",
+      "1 cuillère à soupe d'huile d'olive"
+    ],
+    "steps": [
+      "Épluchez et coupez le potimarron en morceaux.",
+      "Émincez l'oignon et faites-le revenir dans l'huile d'olive.",
+      "Ajoutez le potimarron et le bouillon, laissez cuire 20 minutes.",
+      "Mixez la soupe et ajoutez la crème fraîche.",
+      "Assaisonnez avec sel et poivre, servez chaud."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rillettes de porc",
+    "description": "Rillettes maison servies avec des cornichons et des tranches de pain de campagne.",
+    "ingredients": [
+      "500g d'échine de porc",
+      "100g de graisse de canard",
+      "1 oignon",
+      "2 gousses d'ail",
+      "1 feuille de laurier",
+      "Sel, poivre",
+      "Cornichons",
+      "Pain de campagne"
+    ],
+    "steps": [
+      "Coupez la viande en morceaux et faites-la cuire dans la graisse de canard avec l'oignon et l'ail.",
+      "Ajoutez la feuille de laurier, le sel et le poivre.",
+      "Laissez mijoter à feu doux pendant 3 heures.",
+      "Effilochez la viande, mélangez et laissez refroidir.",
+      "Servez avec des cornichons et du pain de campagne."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tartare de saumon",
+    "description": "Saumon frais haché, assaisonné avec de l'huile d'olive, du citron et des herbes.",
+    "ingredients": [
+      "200g de saumon frais",
+      "1 cuillère à soupe d'huile d'olive",
+      "1 citron",
+      "Quelques brins de ciboulette",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Coupez le saumon en petits dés.",
+      "Assaisonnez avec l'huile d'olive, le jus de citron, le sel et le poivre.",
+      "Ajoutez la ciboulette finement hachée.",
+      "Mélangez délicatement et servez frais."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Soupe de Noël",
+    "description": "Soupe chaude de légumes et de dinde, parfaite pour se réchauffer.",
+    "ingredients": [
+      "200g de dinde coupée en morceaux",
+      "2 carottes",
+      "1 poireau",
+      "2 pommes de terre",
+      "1 litre de bouillon de volaille",
+      "Sel, poivre",
+      "1 bouquet garni"
+    ],
+    "steps": [
+      "Épluchez et coupez les légumes en morceaux.",
+      "Faites revenir la dinde dans une grande casserole.",
+      "Ajoutez les légumes et le bouillon de volaille.",
+      "Laissez cuire 30 minutes avec le bouquet garni.",
+      "Assaisonnez avec sel et poivre, servez chaud."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Salade de chèvre chaud",
+    "description": "Salade verte garnie de chèvre chaud, noix et vinaigrette au miel.",
+    "ingredients": [
+      "Salade verte",
+      "4 tranches de fromage de chèvre",
+      "1 cuillère à soupe de miel",
+      "1 poignée de noix",
+      "Huile d'olive",
+      "Vinaigre balsamique",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Disposez la salade verte dans un saladier.",
+      "Faites dorer les tranches de chèvre au four avec un filet de miel.",
+      "Ajoutez les tranches de chèvre chaud sur la salade.",
+      "Parsemez de noix et assaisonnez avec une vinaigrette d'huile d'olive et vinaigre balsamique."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tartiflette",
+    "description": "Plat savoyard à base de pommes de terre, fromage reblochon, lardons et oignons.",
+    "ingredients": [
+      "1kg de pommes de terre",
+      "200g de lardons",
+      "1 oignon",
+      "1 reblochon",
+      "20cl de crème fraîche",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Épluchez et coupez les pommes de terre en rondelles, faites-les cuire à l'eau.",
+      "Faites revenir les lardons et l'oignon émincé dans une poêle.",
+      "Dans un plat à gratin, disposez les pommes de terre, les lardons et la crème fraîche.",
+      "Ajoutez le reblochon coupé en deux sur le dessus, enfournez 20 minutes."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Châtaignes grillées",
+    "description": "Châtaignes grillées et servies avec un peu de sel et de beurre.",
+    "ingredients": [
+      "500g de châtaignes",
+      "Sel",
+      "Beurre"
+    ],
+    "steps": [
+      "Préchauffez le four à 220°C.",
+      "Incisez les châtaignes avec un couteau.",
+      "Disposez-les sur une plaque et enfournez 25 minutes en les remuant à mi-cuisson.",
+      "Une fois grillées, épluchez-les et servez avec du sel et du beurre."
+    ]
+  }
+]

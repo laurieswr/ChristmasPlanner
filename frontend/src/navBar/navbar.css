@@ -1,0 +1,36 @@
+.navbar {
+  position: fixed;
+  bottom: 0;
+  width: 96%;
+  height: 50px;
+  background-color: rgba(128, 128, 128, 1); /* gris avec 70% d'opacité */
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 0;
+}
+
+  .navbar-icon {
+    width: 30%;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .navbar-icon img {
+    width: 50px;
+  }
+  
+  .navbar-icon.active {
+    color: #007bff;
+    border-top: 2px solid #007bff;
+  }
+  
+  .navbar-icon:hover {
+    color: #66b2ff;
+  }
+
+  .Home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
